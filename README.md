@@ -4,7 +4,7 @@ VRPong is a Oculus Rift and Oculus Quest game that is a classic Pong clone where
 
 ## Video Promo
 
-Click [HERE](https://https://youtu.be/VkQGClueBRQ) to see promotional video on YouTube.
+Click [HERE](https://youtu.be/VkQGClueBRQ) to see promotional video on YouTube.
 
 ## Installation
 

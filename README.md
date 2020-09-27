@@ -1,3 +1,5 @@
+[![Watch The Video](https://img.youtube.com/vi/VkQGClueBRQ/maxresdefault.jpg)](https://youtu.be/VkQGClueBRQ)
+
 # VRPong
 
 VRPong is a Oculus Rift and Oculus Quest game that is a classic Pong clone where have two paddles to which your left controller handles the left paddle and the right controller to hanldle the right paddle.  Tons of retro fun in this game!

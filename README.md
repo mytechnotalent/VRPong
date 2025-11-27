@@ -8,13 +8,17 @@ VRPong is a Oculus Rift and Oculus Quest game that is a classic Pong clone where
 
 Click [HERE](https://youtu.be/VkQGClueBRQ) to see promotional video on YouTube.
 
-## Installation
+<br>
+
+# Installation
 
 ```bash
 git clone https://github.com/mytechnotalent/VRPong.git
 ```
 
-## Run Application (Oculus Rift)
+<br>
+
+# Run Application (Oculus Rift)
 
 With the terminal window open make sure you cd or change directory and run app.
 
@@ -23,7 +27,9 @@ cd bin
 VRPong.exe
 ```
 
-## Run Application (Oculus Quest)
+<br>
+
+# Run Application (Oculus Quest)
 
 With the terminal window open make sure you cd or change directory and follow the directions [HERE](https://www.androidcentral.com/how-sideload-apps-oculus-quest) to side-load the app to your device.
 
@@ -32,12 +38,8 @@ cd bin-apk
 VRPong.apk
 ```
 
-## Contributing
+<br>
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
+# License
 
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
